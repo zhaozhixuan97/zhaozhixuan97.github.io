@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2022-05-16
-img: cabin.png
+img: LIFT.png
 alt: image-alt
 project-date: 2021.04-2022.01
 client: Start Bootstrap
