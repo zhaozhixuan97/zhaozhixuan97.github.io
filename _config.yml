@@ -3,8 +3,8 @@ title: ZhaoZhixuan's website
 email: zhaozhixuan97@gmail.com
 url: https://github.com/zhaozhixuan97
 description: "Welcome to my personal website. I would like to share my researches, learning processes, and interested paper on this website."
-keywords: "Electronics Science and Engineering, Mechanic Manufacturing and Automation"
-skills: "THz metamaterial design and manufacturing - Laser-induced forward transfer(LIFT) - COMSOL simulation"
+keywords: "Electronics Science and Engineering, Mechanical Manufacturing and Automation"
+skills: "Electronics Science and Engineering, Mechanical Manufacturing and Automation"
 meta_author: Zhixuan Zhao
 
 # Google webmaster tools
@@ -45,8 +45,8 @@ social:
     url:
   - title: researchgate
     url: https://www.researchgate.net/profile/Zhao-Zhixuan-2
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.cn/incareer/jobs
   - title: github
     url: http://github.com/zhaozx97
 
