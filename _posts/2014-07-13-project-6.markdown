@@ -9,3 +9,4 @@ client: Start Bootstrap
 category: Web Development
 description:I did the modeling and simulation of the different shielding gas structures of the microdroplet deposition device in OpenFOAM and the simulation of laser ablation graphite nozzle piece process in COMSOL by coupling the solid heat transfer module and the deformation geometry module. Heat removal was set up by evaporation in the heat transfer physical field, expressed as heat flux; and the ablation was set up by evaporation in the deformed grid physical field, expressed as the rate of grid deformation. Displacement velocity of material was carried away by evaporation through q inversely.
 ---
+---
