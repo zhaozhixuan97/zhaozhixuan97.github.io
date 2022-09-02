@@ -2,10 +2,10 @@
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: cake.png
+img: Inverse design.png
 alt: image-alt
-project-date: April 2014
+project-date: April 2022 - now
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: The cell size of THZ metamaterial was scanned and simulated by COMSOL to obtain the corresponding response wavelength of metamaterial with different shapes and geometric sizes. The simulation results are used as the input of the neural network, and then the neural network of the specified wavelength metamaterial can be trained.
 ---
