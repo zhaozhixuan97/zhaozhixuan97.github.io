@@ -5,7 +5,7 @@ date: 2022-05-16
 img: LIFT.png
 alt: image-alt
 project-date: 2021.04 - 2022.03
-client: Start Bootstrap
-category: Web Development
 description: To achieve the direct manufacturing of metal arrays or parts in micron-scale such as 3D THz metamaterials and micro helix, the laser-induced forward transfer (LIFT) technique was developed by our group with the cooperation of the laser manufacturing group in University of Twente. This is also the theme of my master's thesis. I have independently finished the device setup of LIFT, investigation of Au micro-droplet ejection and deposition, and software development for LIFT 3D printing highly compressible micro helix. The research paper of this research is under transfer to the Journal of Manufacturing Processes. 
 ---
+client: Start Bootstrap
+category: Web Development
