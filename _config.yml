@@ -1,11 +1,11 @@
 # Site settings
-title: ZhaoZhixuan's website
+title: ZHAO Zhixuan's website
 email: zhaozhixuan97@gmail.com
 url: https://github.com/zhaozhixuan97
-description: "Welcome to my personal website. I would like to share my researches, learning processes, and interested paper on this website."
-keywords: "Electronics Science and Engineering, Mechanical Manufacturing and Automation"
-skills: "Electronics Science and Engineering, Mechanical Manufacturing and Automation"
-meta_author: Zhixuan Zhao
+description: "Welcome to my personal website. I would like to share my research, learning processes, and interested paper on this website."
+keywords: "NanoMADE Lab, Department of EEE, HKU"
+skills: "NanoMADE Lab, Department of EEE, HKU"
+meta_author: ZHAO Zhixuan
 
 # Google webmaster tools
 google_verify:
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: The University of Hong Kong
-  - line: Chow Yei Ching Building, Pokfulam, Hong Kong
+  - line: RM 607, Chow Yei Ching Building
+  - line: The University of Hong Kong, Pokfulam, Hong Kong
 
 # Credits content
 credits: 'I am now dedicated to the inverse design and 3D printing of THz devices. If you are interested in my current and past research, feel free to contact me.'
