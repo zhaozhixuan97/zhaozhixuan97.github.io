@@ -4,8 +4,7 @@ modal-id: 6
 date: 2014-07-15
 img: magnetic droplet.png
 alt: image-alt
-project-date: 2022.06-2022.12
-collaborator: Prof. Xi YAO, City University of Hong Kong
+project-date: 2022.06-2022.12   collaborator: Prof. Xi YAO, City University of Hong Kong
 description: I did the modeling and simulation of micro-scale droplet which was diven rotating by magnetic-ridge in COMSOL by coupling the CFD module, dilute substance transfer module, and the deformation geometry module. The shearing effect inside the droplet was considered and analyzed to reveal the droplet mixing mechanism in this novel open-droplet system. The Mixing Index was calculated by using Mathematica to show the efficiency under different parameters. To get accurate boundary conditions, I also calculate the disjoining pressure and the interficial tension between the cloak and the droplet based on the research of IIT. In addition, I have also optimized the devices of this open-droplet system to be controlled precisely.
 ---
  Start Bootstrap
